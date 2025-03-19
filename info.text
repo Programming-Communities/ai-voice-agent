@@ -1,0 +1,6 @@
+wordnews- auth
+db qm
+npm install convex
+
+npx convex dev
+
