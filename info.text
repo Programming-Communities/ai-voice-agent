@@ -4,11 +4,13 @@ npm install convex
 
 npx convex dev
 
+http://localhost:6791/data?table=users
+
+https://dashboard.convex.dev/t/programming-communities/ai-coaching-voice-agent-64f6d/cheerful-mouse-517/data?table=users
 
 
 
-
-https://youtu.be/oE7bVYRFYrU?t=2984
+https://youtu.be/oE7bVYRFYrU?t=3994
 
 
 
